@@ -1,0 +1,22 @@
+{
+  "short_name": "React Chrome",
+  "name": "React Chrome Plugin Example",
+  "description": "Example plug using react-chrome-plugin-starter",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon":{
+      "16": "images/logox16.png",
+      "32": "images/logox32.png",
+      "48": "images/logox48.png",
+      "128": "images/logox128.png"
+    }
+  },
+  "icons": {
+      "16": "images/logox16.png",
+      "32": "images/logox32.png",
+      "48": "images/logox48.png",
+      "128": "images/logox128.png"
+  }
+}
